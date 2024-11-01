@@ -60,7 +60,6 @@ library(stringr)
 library(brnn)
 Sys.setlocale()
 Sys.setlocale(category = "LC_ALL", locale = "tr_TR.UTF-8")
-options(rsconnect.http.timeout = 300)
 #rsconnect::deployApp()
 
 
